@@ -1,15 +1,15 @@
-# CloveLibFabric
+# CloveLibForge
 
 Minecraft server mods for Fabric built on the CloveLib API framework.
 
-[![Deploy CloveLibAPI](https://github.com/CloveLib/CloveLibFabric/actions/workflows/build-clovelibapi.yml/badge.svg)](https://github.com/CloveLib/CloveLibFabric/actions/workflows/build-clovelibapi.yml)
-[![Deploy CPC](https://github.com/CloveLib/CloveLibFabric/actions/workflows/build-cpc.yml/badge.svg)](https://github.com/CloveLib/CloveLibFabric/actions/workflows/build-cpc.yml)
-[![Deploy EndRace](https://github.com/CloveLib/CloveLibFabric/actions/workflows/build-endrace.yml/badge.svg)](https://github.com/CloveLib/CloveLibFabric/actions/workflows/build-endrace.yml)
-[![Deploy Estrocord](https://github.com/CloveLib/CloveLibFabric/actions/workflows/build-estrocord.yml/badge.svg)](https://github.com/CloveLib/CloveLibFabric/actions/workflows/build-estrocord.yml)
-[![Deploy JailedWings](https://github.com/CloveLib/CloveLibFabric/actions/workflows/build-jailedwings.yml/badge.svg)](https://github.com/CloveLib/CloveLibFabric/actions/workflows/build-jailedwings.yml)
-[![Deploy StatsEnd](https://github.com/CloveLib/CloveLibFabric/actions/workflows/build-statsend.yml/badge.svg)](https://github.com/CloveLib/CloveLibFabric/actions/workflows/build-statsend.yml)
-[![Deploy WingSync](https://github.com/CloveLib/CloveLibFabric/actions/workflows/build-wingsync.yml/badge.svg)](https://github.com/CloveLib/CloveLibFabric/actions/workflows/build-wingsync.yml)
-[![CodeFactor](https://www.codefactor.io/repository/github/clovelib/CloveLibFabric/badge)](https://www.codefactor.io/repository/github/clovelib/CloveLibFabric)
+[![Deploy CloveLibAPI](https://github.com/CloveLib/CloveLibForge/actions/workflows/build-clovelibapi.yml/badge.svg)](https://github.com/CloveLib/CloveLibForge/actions/workflows/build-clovelibapi.yml)
+[![Deploy CPC](https://github.com/CloveLib/CloveLibForge/actions/workflows/build-cpc.yml/badge.svg)](https://github.com/CloveLib/CloveLibForge/actions/workflows/build-cpc.yml)
+[![Deploy EndRace](https://github.com/CloveLib/CloveLibForge/actions/workflows/build-endrace.yml/badge.svg)](https://github.com/CloveLib/CloveLibForge/actions/workflows/build-endrace.yml)
+[![Deploy Estrocord](https://github.com/CloveLib/CloveLibForge/actions/workflows/build-estrocord.yml/badge.svg)](https://github.com/CloveLib/CloveLibForge/actions/workflows/build-estrocord.yml)
+[![Deploy JailedWings](https://github.com/CloveLib/CloveLibForge/actions/workflows/build-jailedwings.yml/badge.svg)](https://github.com/CloveLib/CloveLibForge/actions/workflows/build-jailedwings.yml)
+[![Deploy StatsEnd](https://github.com/CloveLib/CloveLibForge/actions/workflows/build-statsend.yml/badge.svg)](https://github.com/CloveLib/CloveLibForge/actions/workflows/build-statsend.yml)
+[![Deploy WingSync](https://github.com/CloveLib/CloveLibForge/actions/workflows/build-wingsync.yml/badge.svg)](https://github.com/CloveLib/CloveLibForge/actions/workflows/build-wingsync.yml)
+[![CodeFactor](https://www.codefactor.io/repository/github/clovelib/CloveLibForge/badge)](https://www.codefactor.io/repository/github/clovelib/CloveLibForge)
 
 ## Plugins
 
@@ -37,8 +37,8 @@ Minecraft server mods for Fabric built on the CloveLib API framework.
 
 ## Contributors
 
-<a href="https://github.com/CloveLib/CloveLibFabric/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=CloveLib/CloveLibFabric" />
+<a href="https://github.com/CloveLib/CloveLibForge/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CloveLib/CloveLibForge" />
 </a>
 
 ## License
